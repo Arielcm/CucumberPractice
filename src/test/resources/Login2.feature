@@ -11,4 +11,4 @@ Feature: Login Functionality
     Examples: 
       | username | password |
       | "john"   | "demo"   |
-      | "john"   | "demo"   |
+   
